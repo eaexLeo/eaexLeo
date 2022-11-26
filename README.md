@@ -3,6 +3,7 @@
 - 🎓 Atualmente cursando Análise e desenvolvimento de sistemas.<br>
 - 💻 Trabalhando como Digitador na Stefanini Group.
 
+### Conecte-se comigo!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eae_xleo/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-de-paula777/)
 

@@ -1,7 +1,6 @@
 ### Olá, eu sou o Leonardo! 🤙
 
-- 🎓 Atualmente cursando Análise e desenvolvimento de sistemas.<br>
-- 💻 Trabalhando como Digitador na Stefanini Group.
+- 🎓 Formardo em Análise e desenvolvimento de sistemas.<br>
 
 ### Conecte comigo:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eae_xleo/)

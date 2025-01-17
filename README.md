@@ -1,7 +1,7 @@
 ### Hi there, i'am Leonardo! 🤙
 
 - 🎓 Formado em Análise e desenvolvimento de sistemas - UNICSUL.<br>
-- 🎓 Cursando Sistemad de Informação - FIAP.<br>
+- 🎓 Cursando Sistemas de Informação - FIAP.<br>
 
 ### Conecte comigo:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eae_xleo/)

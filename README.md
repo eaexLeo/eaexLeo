@@ -1,11 +1,10 @@
 ### Hi there, i'am Leonardo! 🤙
 
-- 🎓 Formado em Análise e desenvolvimento de sistemas - UNICSUL.<br>
-- 🎓 Cursando Sistemas de Informação - FIAP.<br>
+- 🎓 Cursando Ciência da Computação - UNICID.<br>
 
 ### Conecte comigo:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eae_xleo/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-de-paula777/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardocpaula?trk=blended-typeahead)
 
 ![Léo GitHub stats](https://github-readme-stats.vercel.app/api?username=eaexLeo&show_icons=true&theme=gruvbox)
 
